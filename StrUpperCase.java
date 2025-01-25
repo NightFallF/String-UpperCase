@@ -1,6 +1,6 @@
 public class StrUpperCase {
     public static void main(String[] args) {
-        String book = "Human Nature";
+        String name = "Josh Makazo";
         System.out.println(book.toUpperCase());
     }
 }
